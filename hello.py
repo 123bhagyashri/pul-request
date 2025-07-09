@@ -1,1 +1,1 @@
-print("✅ Hello from GitHub Actions on Windows!")
+print("Hello again!")
